@@ -1,0 +1,6 @@
+FNATIC GROUP
+-------------------
+
+1.SOURCE CODE-> 	Quicksafar  (folder)
+2.DATABASE EXPORT->	cardb_database (file)
+3.PROJECT REPORT-> 	Project Report.pdf

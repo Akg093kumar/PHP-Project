@@ -1,0 +1,64 @@
+#wrapper{
+	width: 100%;
+}
+#head{
+	width:100%;
+	height: 170px;
+	float: left;
+	background-color: #EBF6F5;
+}
+#logo{
+	float: left;
+}
+#login{
+	margin-top: 30px;
+	float: right;
+}
+#content{
+	float: left;
+	background-color: #ffffcc;
+	width: 75%;
+}
+
+#contentWrapper{
+	width: 100%;
+	float: left;
+}
+#right{
+	float: left;
+	background-color:  #ff66ff;
+	width: 25%;
+	height: 500px;
+}
+#rightProfile{
+	margin: 5%;
+	background-color:  #ff66ff
+	float: left;
+}
+#rightProfile table tr td{
+	margin: 5%;
+}
+#footer{
+	width:100%;
+	height: 150px;
+	float: left;
+	background-color:  #EBF6F5;
+}
+#nav{
+	float: left;
+	margin-left: 25%;
+	margin-top: 5%;
+}
+#nav ul li{
+	float: left;
+	margin: 15px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	font-weight: bold;
+}
+h2{
+	text-align: center;
+}
